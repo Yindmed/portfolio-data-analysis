@@ -26,6 +26,7 @@ Aquí recopilo diferentes trabajos y prácticas que he realizado durante mi form
 - **Objetivo:** Creación de dashboards interactivos para visualizar métricas clave (ventas, clientes, mercados).  
 - **Tecnologías:** Power BI, DAX, Power Query.  
 - **Habilidades aplicadas:** Modelado de datos, medidas calculadas, segmentación dinámica.
+- [Ver carpeta del proyecto](./PBI-NEXT-RIDE)
 
 ---
 

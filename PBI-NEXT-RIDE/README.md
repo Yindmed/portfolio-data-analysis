@@ -29,12 +29,6 @@ El dashboard incluye:
 
 ---
 
-## 📂 Contenido
-- `CASO_2_PBI_UNICORN_YIN.pbix` → archivo principal del dashboard en Power BI.  
-- `README.md` → documentación del proyecto.  
-
----
-
 ## 🚀 Cómo abrir el proyecto
 1. Descarga este repositorio o solo la carpeta del proyecto.  
 2. Abre el archivo `.pbix` en **Power BI Desktop**.  
@@ -44,3 +38,4 @@ El dashboard incluye:
 
 ## 📌 Nota
 El archivo puede no visualizarse directamente en GitHub. Es necesario abrirlo con **Power BI Desktop**.
+

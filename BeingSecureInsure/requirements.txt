@@ -1,0 +1,15 @@
+# Core scientific libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+
+# Database connection
+mysql-connector-python==9.0.0
+
+# Notebook environment
+jupyter==1.0.0
+notebook==7.2.1

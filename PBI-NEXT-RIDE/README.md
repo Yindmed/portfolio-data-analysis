@@ -1,41 +1,32 @@
 # 📊 Caso 2 – Power BI Dashboard (Unicorn Bootcamp)
+# 🚕 Taxi Trips Analytics – Power BI Dashboard
 
-Este proyecto fue desarrollado como parte de los ejercicios prácticos del **Unicorn Data Analytics Bootcamp**.  
-El objetivo fue diseñar un **dashboard interactivo en Power BI** que permita analizar datos de negocio y extraer insights clave.  
-
----
-
-## 📌 Objetivos
-- Conectar y transformar datos de distintas fuentes.  
-- Crear visualizaciones claras y fáciles de interpretar.  
-- Aplicar **medidas DAX** y segmentaciones dinámicas.  
-- Generar un informe que apoye la toma de decisiones.  
+Interactive dashboard built in **Power BI** to analyze a dataset of **taxi trips**.  
+The goal is to explore demand, revenue, payment methods, and trip characteristics to extract actionable insights.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
-- **Power BI** (modelado, DAX, visualizaciones)  
-- **Power Query** (ETL básico)  
-- **Excel / CSV** como fuentes de datos  
+## 🎯 Main Insights
+- Demand patterns by **day of week** and **hour of the day** (clear peaks).  
+- **Revenue analysis** by vendor, payment method, and passenger count.  
+- **Tips** represent a relevant share of income, varying strongly with payment method.  
+- Certain **pickup and drop-off zones** concentrate most of the trips.  
+- Outliers detected: extremely short trips, unrealistic distances or speeds.  
 
 ---
 
-## 📊 Resultados
-El dashboard incluye:  
-- Gráficos comparativos de ventas y clientes.  
-- Segmentaciones dinámicas por categorías.  
-- Indicadores clave (KPIs) calculados con DAX.  
-- Reporte interactivo para explorar escenarios.  
+## 🛠️ Tools & Skills
+- **Power BI** – dashboards, DAX measures, KPIs.  
+- **Power Query** – ETL (cleaning, transformations).  
+- Data storytelling and visualization design.  
 
 ---
 
-## 🚀 Cómo abrir el proyecto
-1. Descarga este repositorio o solo la carpeta del proyecto.  
-2. Abre el archivo `.pbix` en **Power BI Desktop**.  
-3. Explora las visualizaciones y reportes interactivos.  
+## 🚀 How to open
+1. Download this repository or the folder.  
+2. Open `CASO_2_PBI_UNICORNpbix` with **Power BI Desktop**.  
+3. Explore the report and filters interactively.  
 
 ---
 
-## 📌 Nota
-El archivo puede no visualizarse directamente en GitHub. Es necesario abrirlo con **Power BI Desktop**.
-
+📌 *This project was created as part of my Data Analysis training, focusing on building clear dashboards and business insights.*

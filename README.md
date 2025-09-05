@@ -8,7 +8,7 @@ Aquí recopilo diferentes trabajos y prácticas que he realizado durante mi form
 ## 🚀 Proyectos destacados
 
 ### 1. BeingSecureInsure – Proyecto Final (Unicorn Bootcamp)
-- **Objetivo:** Identificar países con alto potencial de expansión internacional para una empresa de ciberseguridad.  
+- **Objetivo:** Identificar países con alto potencial de expansión internacional para una empresa de seguros de salud.  
 - **Tecnologías:** Python (Pandas, Matplotlib, Seaborn, Plotly), MySQL, Jupyter Notebook, Power BI.  
 - **Entregables:** Notebook de análisis, informe en PDF y visualizaciones interactivas.  
 🔗 [Ver carpeta del proyecto](./BeingSecureInsure)
